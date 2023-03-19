@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">posture-indentify</string>
+    <string name="open">开启服务</string>
+    <string name="close">关闭服务</string>
+    <string name="title">姿态检测提醒应用</string>
+    <string name="chanelName">Notification</string>
+    <string name="chanelDescription">姿态检测服务正在运行中</string>
+</resources>
